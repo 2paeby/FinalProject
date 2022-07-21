@@ -1,0 +1,17 @@
+﻿  game.cpp
+C:\Users\Zver\Desktop\game solutions\game\game\level.h(15,35): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Zver\Desktop\game solutions\game\game\level.h(20,30): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Zver\Desktop\game solutions\game\game\game.cpp(27,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zver\Desktop\game solutions\game\game\game.cpp(51,10): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zver\Desktop\game solutions\game\game\game.cpp(50,13): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zver\Desktop\game solutions\game\game\game.cpp(63,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zver\Desktop\game solutions\game\game\game.cpp(62,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  gameObject.cpp
+  main.cpp
+  renderSystem.cpp
+C:\Users\Zver\Desktop\game solutions\game\game\renderSystem.cpp(93,12): warning C4477: "printf": в строке форматирования "%c" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "ConsoleSymbolData"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 47 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  game.vcxproj -> C:\Users\Zver\Desktop\game solutions\game\Release\game.exe
